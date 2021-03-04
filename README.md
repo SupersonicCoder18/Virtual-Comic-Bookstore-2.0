@@ -1,1 +1,2 @@
-# Virtual-Comic-Bookstore-2.0
+# PRO-VR-C157
+After Class Project for C157
